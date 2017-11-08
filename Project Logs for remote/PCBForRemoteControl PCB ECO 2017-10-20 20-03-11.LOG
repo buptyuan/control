@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator=D1 Old DesignItemId=00-D-LED New DesignItemId=LED_0805
+Change Component DesignItemId : Designator=D2 Old DesignItemId=00-D-LED New DesignItemId=LED_0805
+Change Component Comment : Designator=D1 Old Comment=lED New Comment=LED_0805
+Change Component Comment : Designator=D2 Old Comment=lED New Comment=LED_0805
+Change Component Library : Designator=D1 Old Library=K60-mainboard-v3.1.SCHLIB New Library=Integrated_Library.IntLib
+Change Component Library : Designator=D2 Old Library=K60-mainboard-v3.1.SCHLIB New Library=Integrated_Library.IntLib
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=LED_SIG Pin=D2-2
+Added Pin To Net: NetName=LED_RESET Pin=P6-29
+Added Pin To Net: NetName=GND Pin=P6-34
+Added Pin To Net: NetName=PA5 Pin=P6-35
+Added Pin To Net: NetName=CSN Pin=P6-36
+Added Pin To Net: NetName=DCLK Pin=P6-38
+Added Pin To Net: NetName=GND Pin=P6-39
+Added Pin To Net: NetName=GND Pin=P6-40
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R20-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R21-1
+Added Net: Name=NetD2_1

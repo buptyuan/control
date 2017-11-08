@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=HSYNC Pin=D2-2
+Added Component: Designator=BAT1(HDR1X2_2.54_90)
+Added Pin To Net: NetName=VBAT Pin=BAT1-1
+Added Pin To Net: NetName=BGND Pin=BAT1-2
+Added Pin To Net: NetName=LED_SIG Pin=D2-2
+Added Pin To Net: NetName=LED_SIG Pin=U2-140
+Added Net: Name=LED_SIG
+Added Member To Class: ClassName=STM32F103ZE Member=Component BAT1 HDR1x2_2.54
+Added Room: Name=STM32F103ZE

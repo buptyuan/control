@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=VBAT Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=LED_RESET Pin=P2-2
+Removed Pin From Net: NetName=X2 Pin=P2-7
+Removed Pin From Net: NetName=B3 Pin=P2-11
+Removed Pin From Net: NetName=B4 Pin=P2-12
+Removed Pin From Net: NetName=B5 Pin=P2-13
+Removed Pin From Net: NetName=B6 Pin=P2-14
+Removed Pin From Net: NetName=B7 Pin=P2-15
+Removed Pin From Net: NetName=G0 Pin=P2-16
+Removed Pin From Net: NetName=G1 Pin=P2-17
+Removed Pin From Net: NetName=G2 Pin=P2-18
+Removed Pin From Net: NetName=G3 Pin=P2-19
+Removed Pin From Net: NetName=G4 Pin=P2-20
+Removed Pin From Net: NetName=G5 Pin=P2-21
+Removed Pin From Net: NetName=G6 Pin=P2-22
+Removed Pin From Net: NetName=G7 Pin=P2-23
+Removed Pin From Net: NetName=R0 Pin=P2-24
+Removed Pin From Net: NetName=R1 Pin=P2-25
+Removed Pin From Net: NetName=R2 Pin=P2-26
+Removed Pin From Net: NetName=PE11 Pin=P2-27
+Removed Pin From Net: NetName=PE12 Pin=P2-28
+Removed Pin From Net: NetName=PE14 Pin=P2-29
+Removed Pin From Net: NetName=PE13 Pin=P2-30
+Removed Pin From Net: NetName=PE15 Pin=P2-31
+Removed Pin From Net: NetName=PA7 Pin=P2-32
+Removed Pin From Net: NetName=PB11 Pin=P2-33
+Removed Pin From Net: NetName=ENABLE Pin=P2-34
+Removed Pin From Net: NetName=VBAT Pin=P2-35
+Removed Pin From Net: NetName=VBAT Pin=P2-36
+Removed Pin From Net: NetName=PA4 Pin=P2-39
+Added Component: Designator=C16(CAP_0603)
+Added Pin To Net: NetName=VBAT Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=LED_RESET Pin=P2-6
+Added Pin To Net: NetName=X2 Pin=P2-11
+Added Pin To Net: NetName=B3 Pin=P2-15
+Added Pin To Net: NetName=B4 Pin=P2-16
+Added Pin To Net: NetName=B5 Pin=P2-17
+Added Pin To Net: NetName=B6 Pin=P2-18
+Added Pin To Net: NetName=B7 Pin=P2-19
+Added Pin To Net: NetName=G0 Pin=P2-20
+Added Pin To Net: NetName=G1 Pin=P2-21
+Added Pin To Net: NetName=G2 Pin=P2-22
+Added Pin To Net: NetName=G3 Pin=P2-23
+Added Pin To Net: NetName=G4 Pin=P2-24
+Added Pin To Net: NetName=G5 Pin=P2-25
+Added Pin To Net: NetName=G6 Pin=P2-26
+Added Pin To Net: NetName=G7 Pin=P2-27
+Added Pin To Net: NetName=R0 Pin=P2-28
+Added Pin To Net: NetName=PA4 Pin=P2-29
+Added Pin To Net: NetName=R1 Pin=P2-29
+Added Pin To Net: NetName=R2 Pin=P2-30
+Added Pin To Net: NetName=PE11 Pin=P2-31
+Added Pin To Net: NetName=PE12 Pin=P2-32
+Added Pin To Net: NetName=PE14 Pin=P2-33
+Added Pin To Net: NetName=GND Pin=P2-34
+Added Pin To Net: NetName=PE13 Pin=P2-34
+Added Pin To Net: NetName=PA5 Pin=P2-35
+Added Pin To Net: NetName=PE15 Pin=P2-35
+Added Pin To Net: NetName=HSYNC Pin=P2-36
+Added Pin To Net: NetName=PA7 Pin=P2-36
+Added Pin To Net: NetName=PB11 Pin=P2-37
+Added Pin To Net: NetName=DCLK Pin=P2-38
+Added Pin To Net: NetName=ENABLE Pin=P2-38
+Added Pin To Net: NetName=GND Pin=P2-39
+Added Pin To Net: NetName=VBAT Pin=P2-39
+Added Pin To Net: NetName=GND Pin=P2-40
+Added Pin To Net: NetName=VBAT Pin=P2-40
+Change Net Name : Old Net Name=B0 New Net Name=Y1
+Change Net Name : Old Net Name=B1 New Net Name=X1
+Change Net Name : Old Net Name=B2 New Net Name=Y2
+Added Pin To Net: NetName=B0 Pin=P2-12
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=P2-13
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=P2-14
+Added Net: Name=B2
+Added Pin To Net: NetName=LED_ANODE Pin=P2-3
+Added Pin To Net: NetName=LED_ANODE Pin=P2-4
+Added Net: Name=LED_ANODE
+Added Pin To Net: NetName=LED_CATHHOOE Pin=P2-1
+Added Pin To Net: NetName=LED_CATHHOOE Pin=P2-2
+Added Net: Name=LED_CATHHOOE
+Added Member To Class: ClassName=STM32F103ZE Member=Component C16 Cap

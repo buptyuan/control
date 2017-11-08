@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R19-2
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X2_1.27_180 New Footprint=HDR1X2_2.54_180
+Change Component Footprint: Designator=USART1 Old Footprint=HDR1X4_1.27_180 New Footprint=HDR1x4_2.54_180
+Added Component: Designator=R19(RES_0603)
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Member To Class: ClassName=STM32F103ZE Member=Component JS1 JoyStick
+Added Member To Class: ClassName=STM32F103ZE Member=Component R19 Res1
+Added Room: Name=STM32F103ZE

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=R18-1
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Res1_1 New DesignItemId=Res_0603
+Change Component Comment : Designator=R18 Old Comment=Res1 New Comment=Res_0603
+Change Component Designator: OldDesignator=KEY_CANCEL NewDesignator=KEY_CANCEL1
+Change Component Designator: OldDesignator=KEY_OK NewDesignator=KEY_OK1
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=S10 NewDesignator=S9
+Change Component Library : Designator=R18 Old Library=K60-mainboard-v3.1.SCHLIB New Library=SCH_Passive.SchLib
+Added Component: Designator=R19(RES_0603)
+Added Component: Designator=S10(MX_SW-1)
+Added Component: Designator=S11(MX_SW-1)
+Added Component: Designator=S12(MX_SW-1)
+Added Component: Designator=S13(MX_SW-1)
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=VBAT Pin=R19-2
+Change Net Name : Old Net Name=NetKEY_CANCEL_1 New Net Name=NetKEY_CANCEL1_1
+Added Pin To Net: NetName=KEY_9 Pin=S10-2
+Added Net: Name=KEY_9
+Added Pin To Net: NetName=KEY_10 Pin=S11-2
+Added Net: Name=KEY_10
+Added Pin To Net: NetName=KEY_11 Pin=S12-2
+Added Net: Name=KEY_11
+Added Pin To Net: NetName=KEY_12 Pin=S13-2
+Added Net: Name=KEY_12
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=S10-1
+Added Pin To Net: NetName=NetR18_1 Pin=S11-1
+Added Pin To Net: NetName=NetR18_1 Pin=S12-1
+Added Pin To Net: NetName=NetR18_1 Pin=S13-1
+Added Net: Name=NetR18_1
+Added Member To Class: ClassName=STM32F103ZE Member=Component R20 Res1
+Added Member To Class: ClassName=STM32F103ZE Member=Component S10 MX_SW
+Added Member To Class: ClassName=STM32F103ZE Member=Component S11 MX_SW
+Added Member To Class: ClassName=STM32F103ZE Member=Component S12 MX_SW
+Added Member To Class: ClassName=STM32F103ZE Member=Component S13 MX_SW
+Added Room: Name=STM32F103ZE

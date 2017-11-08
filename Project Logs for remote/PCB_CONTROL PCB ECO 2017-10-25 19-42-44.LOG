@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=Battery?-1
+Removed Pin From Net: NetName=VBAT Pin=Battery?-2
+Removed Pin From Net: NetName=NetD1_1 Pin=R19-1
+Removed Pin From Net: NetName=VBAT Pin=R19-2
+Removed Pin From Net: NetName=VBAT Pin=RT1-1
+Removed Pin From Net: NetName=GND Pin=RT1-2
+Removed Pin From Net: NetName=VBAT Pin=RT1-3
+Removed Pin From Net: NetName=NetC13_2 Pin=RT1-4
+Removed Pin From Net: NetName=VBAT Pin=RT1-5
+Removed Member From Class: ClassName=STM32F103ZE Member=Battery?
+Removed Member From Class: ClassName=STM32F103ZE Member=RT1
+Added Component: Designator=LM1(TO-263-3)
+Added Component: Designator=P2(HDR1X2_1.27_180)
+Added Component: Designator=R19(RES_0603)
+Added Pin To Net: NetName=NetC13_2 Pin=LM1-1
+Added Pin To Net: NetName=VBAT Pin=LM1-2
+Added Pin To Net: NetName=VBAT Pin=LM1-3
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=VBAT Pin=P2-2
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=VBAT Pin=R19-2
+Added Member To Class: ClassName=STM32F103ZE Member=Component LM1 LM1084
+Added Member To Class: ClassName=STM32F103ZE Member=Component P2 HDR1x2_1.27
+Added Member To Class: ClassName=STM32F103ZE Member=Component R19 Res1
+Added Room: Name=STM32F103ZE

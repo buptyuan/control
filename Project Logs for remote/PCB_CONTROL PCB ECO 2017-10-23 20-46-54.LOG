@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VBAT Pin=C7-1
+Removed Pin From Net: NetName=VBAT Pin=C11-2
+Removed Pin From Net: NetName=VBAT Pin=PW1-3
+Removed Pin From Net: NetName=VBAT Pin=R6-2
+Removed Pin From Net: NetName=VBAT Pin=RT1-1
+Removed Pin From Net: NetName=VBAT Pin=RT1-3
+Removed Pin From Net: NetName=NetR17_1 Pin=S11-1
+Removed Pin From Net: NetName=KEY_OK Pin=S11-2
+Removed Pin From Net: NetName=NetR17_1 Pin=S12-1
+Removed Pin From Net: NetName=KEY_CENCEL Pin=S12-2
+Removed Pin From Net: NetName=VBAT Pin=U1-6
+Removed Pin From Net: NetName=VBAT Pin=U2-3
+Added Component: Designator=S11(ButtonTACT_3x6x2.5_180)
+Added Component: Designator=S12(ButtonTACT_3x6x2.5_180)
+Added Pin To Net: NetName=NetR17_1 Pin=S11-1
+Added Pin To Net: NetName=KEY_OK Pin=S11-2
+Added Pin To Net: NetName=NetR17_1 Pin=S12-1
+Added Pin To Net: NetName=KEY_CENCEL Pin=S12-2
+Change Net Name : Old Net Name=VBAT New Net Name=3V3
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=VBAT Pin=C11-2
+Added Pin To Net: NetName=VBAT Pin=PW1-3
+Added Pin To Net: NetName=VBAT Pin=R6-2
+Added Pin To Net: NetName=VBAT Pin=RT1-1
+Added Pin To Net: NetName=VBAT Pin=RT1-3
+Added Pin To Net: NetName=VBAT Pin=U1-6
+Added Pin To Net: NetName=VBAT Pin=U2-3
+Added Net: Name=VBAT
+Added Member To Class: ClassName=STM32F103ZE Member=Component S11 ButtonTACT_3x6x2.5_180
+Added Member To Class: ClassName=STM32F103ZE Member=Component S12 ButtonTACT_3x6x2.5_180
+Added Room: Name=STM32F103ZE

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R19-2
+Change Component Footprint: Designator=RF1 Old Footprint=nrf24l01_youxin New Footprint=HDR2X4_2.54_180
+Change Component Designator: OldDesignator=Battery NewDesignator=P2
+Added Component: Designator=R19(RES_0603)
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=BAT_V Pin=U1-35
+Added Member To Class: ClassName=STM32F103ZE Member=Component R19 Res1
+Added Room: Name=STM32F103ZE

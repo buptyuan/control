@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VBAT Pin=UART1-1
+Removed Pin From Net: NetName=GND Pin=UART1-2
+Removed Pin From Net: NetName=PA3 Pin=UART1-3
+Removed Pin From Net: NetName=PA2 Pin=UART1-4
+Added Component: Designator=R18(RES_0603)
+Added Pin To Net: NetName=BOOT0 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Member To Class: ClassName=STM32F103ZE Member=Component R12 Res_0603
+Added Member To Class: ClassName=STM32F103ZE Member=Component R18 Res1
+Added Member To Class: ClassName=STM32F103ZE Member=Component S1 ButtonTACT_3x6x2.5_180
+Added Room: Name=STM32F103ZE

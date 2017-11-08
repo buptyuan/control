@@ -1,0 +1,10 @@
+Change Component Designator: Old Designator=KEY_CANCEL New Designator=KEY_CANCEL1
+Change Component Designator: Old Designator=KEY_OK New Designator=KEY_OK1
+Change Component Designator: Old Designator=R14 New Designator=R18
+Change Component Designator: Old Designator=R18 New Designator=R19
+Change Component Designator: Old Designator=R19 New Designator=R20
+Change Component Designator: Old Designator=S2 New Designator=S10
+Change Component Designator: Old Designator=S3 New Designator=S11
+Change Component Designator: Old Designator=S4 New Designator=S12
+Change Component Designator: Old Designator=S5 New Designator=S13
+Change Component Designator: Old Designator=S10 New Designator=S9

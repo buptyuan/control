@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PF12 Pin=P2-21
+Removed Pin From Net: NetName=PF13 Pin=P2-22
+Added Pin To Net: NetName=PF13 Pin=P2-21
+Added Pin To Net: NetName=PF12 Pin=P2-22
+Added Pin To Net: NetName=B1 Pin=P2-28
+Added Pin To Net: NetName=B0 Pin=P2-29
+Added Pin To Net: NetName=G5 Pin=P2-30
+Added Pin To Net: NetName=G4 Pin=P2-31
+Added Pin To Net: NetName=G3 Pin=P2-32
+Added Pin To Net: NetName=G2 Pin=P2-33
+Added Pin To Net: NetName=G0 Pin=P2-35
+Added Pin To Net: NetName=B6 Pin=P2-37
+Added Pin To Net: NetName=B5 Pin=P2-38
+Added Pin To Net: NetName=B4 Pin=P2-39
+Added Pin To Net: NetName=B3 Pin=P2-40
+Change Net Name : Old Net Name=B2 New Net Name=R0
+Added Pin To Net: NetName=B2 Pin=P2-27
+Added Net: Name=B2

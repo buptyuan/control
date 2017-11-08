@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=KEY_OK Pin=S11-2
+Removed Pin From Net: NetName=KEY_CENCEL Pin=S12-2
+Change Component Designator: OldDesignator=S9 NewDesignator=S10
+Added Component: Designator=KEY_CANCEL(MX_SW-1)
+Added Component: Designator=KEY_OK(MX_SW-1)
+Added Pin To Net: NetName=KEY_CENCEL Pin=KEY_CANCEL-2
+Added Pin To Net: NetName=KEY_OK Pin=KEY_OK-2
+Added Pin To Net: NetName=NetKEY_CANCEL_1 Pin=KEY_CANCEL-1
+Added Pin To Net: NetName=NetKEY_CANCEL_1 Pin=KEY_OK-1
+Added Pin To Net: NetName=NetKEY_CANCEL_1 Pin=R17-1
+Added Net: Name=NetKEY_CANCEL_1
+Added Member To Class: ClassName=STM32F103ZE Member=Component KEY_CANCEL MX_SW
+Added Member To Class: ClassName=STM32F103ZE Member=Component KEY_OK MX_SW
+Added Room: Name=STM32F103ZE

@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=S1 Old DesignItemId=ButtonTACT_3x6x2.5_180 New DesignItemId=MX_SW-1
+Change Component DesignItemId : Designator=S2 Old DesignItemId=ButtonTACT_3x6x2.5_180 New DesignItemId=MX_SW-1
+Change Component DesignItemId : Designator=S3 Old DesignItemId=ButtonTACT_3x6x2.5_180 New DesignItemId=MX_SW-1
+Change Component DesignItemId : Designator=S4 Old DesignItemId=ButtonTACT_3x6x2.5_180 New DesignItemId=MX_SW-1
+Change Component Footprint: Designator=S1 Old Footprint=ButtonTACT_3x6x2.5_180 New Footprint=MX_SW-1
+Change Component Footprint: Designator=S2 Old Footprint=ButtonTACT_3x6x2.5_180 New Footprint=MX_SW-1
+Change Component Footprint: Designator=S3 Old Footprint=ButtonTACT_3x6x2.5_180 New Footprint=MX_SW-1
+Change Component Footprint: Designator=S4 Old Footprint=ButtonTACT_3x6x2.5_180 New Footprint=MX_SW-1
+Change Component Comment : Designator=S1 Old Comment=ButtonTACT_3x6x2.5_180 New Comment=MX_SW
+Change Component Comment : Designator=S2 Old Comment=ButtonTACT_3x6x2.5_180 New Comment=MX_SW
+Change Component Comment : Designator=S3 Old Comment=ButtonTACT_3x6x2.5_180 New Comment=MX_SW
+Change Component Comment : Designator=S4 Old Comment=ButtonTACT_3x6x2.5_180 New Comment=MX_SW
+Added Room: Name=STM32F103ZE

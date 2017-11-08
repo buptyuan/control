@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=X2 Pin=P2-30
+Removed Pin From Net: NetName=Y2 Pin=P2-31
+Removed Pin From Net: NetName=X1 Pin=P2-32
+Removed Pin From Net: NetName=Y1 Pin=P2-33
+Removed Pin From Net: NetName=LED_RESET Pin=P2-35
+Removed Pin From Net: NetName=LED_ANODE Pin=P2-37
+Removed Pin From Net: NetName=LED_ANODE Pin=P2-38
+Removed Pin From Net: NetName=LED_CATHHOOE Pin=P2-39
+Removed Pin From Net: NetName=LED_CATHHOOE Pin=P2-40
+Added Pin To Net: NetName=G5 Pin=P2-30
+Added Pin To Net: NetName=G4 Pin=P2-31
+Added Pin To Net: NetName=G3 Pin=P2-32
+Added Pin To Net: NetName=G2 Pin=P2-33
+Added Pin To Net: NetName=G0 Pin=P2-35
+Added Pin To Net: NetName=B6 Pin=P2-37
+Added Pin To Net: NetName=B5 Pin=P2-38
+Added Pin To Net: NetName=B4 Pin=P2-39
+Added Pin To Net: NetName=B3 Pin=P2-40
+Added Pin To Net: NetName=B1 Pin=P2-42
+Added Pin To Net: NetName=B0 Pin=P2-43
+Added Pin To Net: NetName=X2 Pin=P2-44
+Added Pin To Net: NetName=Y2 Pin=P2-45
+Added Pin To Net: NetName=X1 Pin=P2-46
+Added Pin To Net: NetName=Y1 Pin=P2-47
+Added Pin To Net: NetName=LED_RESET Pin=P2-49
+Added Pin To Net: NetName=LED_ANODE Pin=P2-51
+Added Pin To Net: NetName=LED_ANODE Pin=P2-52
+Added Pin To Net: NetName=LED_CATHHOOE Pin=P2-53
+Added Pin To Net: NetName=LED_CATHHOOE Pin=P2-54
+Change Net Name : Old Net Name=B2 New Net Name=R0
+Added Pin To Net: NetName=B2 Pin=P2-41
+Added Net: Name=B2

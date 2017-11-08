@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap_0805 New DesignItemId=Cap_0603
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap_Tan_2917 New DesignItemId=Cap_0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C1 Old Footprint=CAP_TAN_D2917 New Footprint=CAP_0603
+Change Component Comment : Designator=C2 Old Comment=Cap_0805 New Comment=Cap_0603
+Change Component Comment : Designator=C1 Old Comment=Cap_Tan_2917 New Comment=Cap_0603
+Added Member To Class: ClassName=STM32F103ZE Member=Component U2 STM32F103ZET6
+Added Room: Name=STM32F103ZE

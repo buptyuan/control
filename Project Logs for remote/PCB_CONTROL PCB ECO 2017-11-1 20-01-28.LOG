@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PC4 Pin=P?-22
+Removed Pin From Net: NetName=PC3 Pin=P?-32
+Removed Pin From Net: NetName=NetD1_1 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R19-2
+Removed Pin From Net: NetName=CS Pin=U1-40
+Added Component: Designator=R19(RES_0603)
+Added Pin To Net: NetName=PC4 Pin=P?-20
+Added Pin To Net: NetName=PC3 Pin=P?-22
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=CS Pin=U1-41
+Added Pin To Net: NetName=LED_A Pin=U1-45
+Added Pin To Net: NetName=PA4 Pin=P?-32
+Added Pin To Net: NetName=PA4 Pin=U1-40
+Added Net: Name=PA4
+Added Member To Class: ClassName=STM32F103ZE Member=Component R19 Res1
+Added Room: Name=STM32F103ZE

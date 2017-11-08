@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT Pin=BAT1-1
+Removed Pin From Net: NetName=BGND Pin=BAT1-2
+Removed Member From Class: ClassName=STM32F103ZE Member=BAT1
+Added Room: Name=STM32F103ZE

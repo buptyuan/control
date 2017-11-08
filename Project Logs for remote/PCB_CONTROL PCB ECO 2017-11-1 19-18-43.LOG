@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R19-2
+Removed Pin From Net: NetName=DB15 Pin=U1-49
+Removed Pin From Net: NetName=DB14 Pin=U1-50
+Removed Pin From Net: NetName=DB10 Pin=U1-53
+Added Component: Designator=R19(RES_0603)
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=DB10 Pin=U1-50
+Added Pin To Net: NetName=PF11 Pin=P?-20
+Added Pin To Net: NetName=PF11 Pin=U1-49
+Added Net: Name=PF11
+Added Pin To Net: NetName=PF13 Pin=P?-18
+Added Pin To Net: NetName=PF13 Pin=U1-53
+Added Net: Name=PF13
+Added Member To Class: ClassName=STM32F103ZE Member=Component R19 Res1
+Added Room: Name=STM32F103ZE

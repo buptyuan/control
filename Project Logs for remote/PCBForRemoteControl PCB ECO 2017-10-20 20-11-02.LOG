@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=G5 Pin=U2-66
+Added Pin To Net: NetName=PG13 Pin=P6-29
+Added Pin To Net: NetName=PD7 Pin=P6-34
+Added Pin To Net: NetName=PD6 Pin=P6-35
+Added Pin To Net: NetName=PA7 Pin=P6-36
+Added Pin To Net: NetName=ENABLE Pin=P6-38
+Added Pin To Net: NetName=VBAT Pin=P6-39
+Added Pin To Net: NetName=VBAT Pin=P6-40

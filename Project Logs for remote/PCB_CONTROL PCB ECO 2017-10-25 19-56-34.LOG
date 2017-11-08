@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=R19-1
+Removed Pin From Net: NetName=VBAT Pin=R19-2
+Added Component: Designator=MOS?(TO-252AA)
+Added Component: Designator=R19(RES_0603)
+Added Pin To Net: NetName=NetD1_1 Pin=R19-1
+Added Pin To Net: NetName=VBAT Pin=R19-2
+Added Member To Class: ClassName=STM32F103ZE Member=Component MOS? MOSFET_N
+Added Member To Class: ClassName=STM32F103ZE Member=Component R19 Res1
+Added Room: Name=STM32F103ZE

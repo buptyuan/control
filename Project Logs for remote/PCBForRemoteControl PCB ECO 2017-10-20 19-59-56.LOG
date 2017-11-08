@@ -1,0 +1,11 @@
+Added Component: Designator=D1(LED_0805_RED)
+Added Component: Designator=D2(LED_0805_RED)
+Added Pin To Net: NetName=LED_RESET Pin=P6-29
+Added Pin To Net: NetName=GND Pin=P6-34
+Added Pin To Net: NetName=PA5 Pin=P6-35
+Added Pin To Net: NetName=CSN Pin=P6-36
+Added Pin To Net: NetName=DCLK Pin=P6-38
+Added Pin To Net: NetName=GND Pin=P6-39
+Added Pin To Net: NetName=GND Pin=P6-40
+Added Member To Class: ClassName=STM32F103ZE Member=Component D1 lED
+Added Member To Class: ClassName=STM32F103ZE Member=Component D2 lED

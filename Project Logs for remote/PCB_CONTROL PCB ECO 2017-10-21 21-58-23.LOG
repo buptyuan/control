@@ -1,0 +1,3 @@
+Added Component: Designator=SW?(MX_SW-1)
+Added Member To Class: ClassName=STM32F103ZE Member=Component SW? MX_SW
+Added Room: Name=STM32F103ZE

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=ENABLE Pin=U2-118
+Added Pin To Net: NetName=G7 Pin=P2-28
+Added Pin To Net: NetName=G6 Pin=P2-29
+Added Pin To Net: NetName=X2 Pin=P2-30
+Added Pin To Net: NetName=Y2 Pin=P2-31
+Added Pin To Net: NetName=X1 Pin=P2-32
+Added Pin To Net: NetName=Y1 Pin=P2-33
+Added Pin To Net: NetName=LED_RESET Pin=P2-35
+Added Pin To Net: NetName=LED_ANODE Pin=P2-37
+Added Pin To Net: NetName=LED_ANODE Pin=P2-38
+Added Pin To Net: NetName=LED_CATHHOOE Pin=P2-39
+Added Pin To Net: NetName=LED_CATHHOOE Pin=P2-40
+Added Pin To Net: NetName=ENABLE Pin=U2-29
+Change Net Name : Old Net Name=B2 New Net Name=R0
+Added Pin To Net: NetName=B2 Pin=P2-27
+Added Net: Name=B2
+Added Pin To Net: NetName=PD4 Pin=U2-118
+Added Net: Name=PD4
